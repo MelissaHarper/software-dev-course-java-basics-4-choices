@@ -28,7 +28,7 @@ public class CollectionChoiceExercises {
 
     public void MakeLoggedInUsersCollection() {
         // Create an appropriate collection variable for holding a set of
-        // unique logged in usernames where adding a username that's already
+        // unique logged-in usernames where adding a username that's already
         // present is ignored and checking if a user is in the collection can
         // be done very quickly.
         HashSet<String>  username;
